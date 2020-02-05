@@ -1,0 +1,54 @@
+﻿body {
+    font-family: 'Quicksand', sans-serif;
+    padding: 5px 60px;
+}
+
+h1 {
+    font-size: 48px;
+    padding: 20px 60px;
+    margin: 0;
+    background-color: #C1E8E3;
+    width: 90%;
+    text-align: center;
+}
+
+input {
+    height: 30px;
+    width: 500px;
+    padding: 5px; /*arriba abajo 10px iz y der 20px*/
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.form {
+    padding: 10px 50px;
+    margin-top: -10px;
+    margin-left: 300px;
+}
+
+.form-tabla { /*para mover la tabla*/
+    margin-top : 100px;
+    margin-left: 100px;
+}
+.form .form-div {
+        padding: 10px;
+}
+
+.mGrid {
+    width: 90%;
+    margin: 5px 0 10px 0; 
+    border: none;
+}
+
+    .mGrid td {
+        padding: 10px 8px;
+        border: solid 1px #c1c1c1;
+        color: #717171;
+    }
+
+    .mGrid th {
+        padding: 10px 8px;
+        color: #000000;
+        background-color: #C1E8E3;
+        border: solid 1px #c1c1c1;
+}
